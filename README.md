@@ -14,7 +14,7 @@ Features
 
 Tech Stack
 
-- Python
+- Python3
 - Random module
 - String module
 - Regular expressions (re module)
